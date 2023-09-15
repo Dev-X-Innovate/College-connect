@@ -1,3 +1,33 @@
+**Tech Trek Hackathon by CSI-LTCE**<br><br>
+Project: PS-02 - College Event Scheduler<br>
+Duration - 5 Hrs<br>
+Team: [Rising Dev's]<br>
+Achievements:<br>
+🥈 2nd Prize Winner (Intra Level)<br>
+
+**Description:**
+
+This repository contains the project developed by Team [Your Team Name] during the 4-hour hackathon organized by CSI-LTCE, named "Tech Trek". Our chosen project, PS-02 - College Event Scheduler, is a web application designed to streamline and optimize event scheduling within our college.<br>
+
+**Features**:<br>
+Intuitive event creation and management interface.<br>
+Real-time collaboration for event organizers.<br>
+Automated conflict resolution for overlapping events.<br>
+Exportable event calendars in various formats.<br>
+Tech Stack:
+Frontend: [React,Node,Tailwind,html,css,js]<br>
+Backend: [Firebase,Google Auth]<br>
+
+
+Team Members:<br>
+[Vivek Sahu]<br>
+[Sumeet Parab]<br>
+[Shubham Tiwari]<br>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
