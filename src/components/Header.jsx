@@ -124,7 +124,7 @@ const Header = () => {
       <div className="flex items-center justify-between md:hidden w-full h-full">
         <Link to={"/"} className="flex items-center gap-0">
           <img src={Logo} className="w-12 object-cover" alt="logo" />
-          <p className="text-headingColor text-2xl font-bold">C</p>
+          <p className="text-headingColor text-2xl font-bold">Connect</p>
         </Link>
 
         <div className="relative">
