@@ -65,9 +65,9 @@ const Header = () => {
         
         className='flex items-center gap-8'>
           <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer'>Home</li>
-          <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer'>Menu</li>
+          <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer'>Events</li>
+          <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer'>Attendence</li>
           <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer'>About Us</li>
-          <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer'>Service</li>
         </motion.ul>
         <div className='relative flex items-center gap'>
         <div className='relative'>
@@ -153,11 +153,11 @@ const Header = () => {
           <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer hover:bg-slate-200 px-4 py-2
           onClick={() => setIsMenu (false)}'>Home</li>
           <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer hover:bg-slate-200 px-4 py-2
-          onClick={() => setIsMenu (false)}'>Menu</li>
+          onClick={() => setIsMenu (false)}'>Events</li>
+          <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer hover:bg-slate-200 px-4 py-2
+          onClick={() => setIsMenu (false)}'>Attendence</li>
           <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer hover:bg-slate-200 px-4 py-2
           onClick={() => setIsMenu (false)}'>About Us</li>
-          <li className='text-base text-textColor hover:text-headingColor duration-100 transition-all ease-in-out cursor-pointer hover:bg-slate-200 px-4 py-2
-          onClick={() => setIsMenu (false)}'>Service</li>
       </ul>
             
               <p className='m-2 p-2 rounded-md shadow:md flex items-center justify-center bg-gray-300 gap-3 cursor-pointer hover:bg-slate-200 transition-all duration-100 ease-in-out text-textColor text-base'

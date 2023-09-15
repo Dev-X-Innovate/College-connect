@@ -1,13 +1,14 @@
-import React from 'react';
-
-
+import React from "react";
+import HeroSection from "./HeroSection";
+import HomeCards from "./HomeCards";
 
 const HomeContainer = () => {
   return (
-    <section className='grid grid-cols-1 md:grid-cols-2 gap-10 w-full' id='home'>
-      Hero Section
-    </section>
+    <div>
+      <HeroSection />
+      <HomeCards />
+    </div>
   );
 };
 
-export default HomeContainer
+export default HomeContainer;
